@@ -1,0 +1,2 @@
+3.5:
+Array has a .sum function which could be used to get the sum of all elements in the array. That would be divided by .length to obtain the average

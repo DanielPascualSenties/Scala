@@ -1,0 +1,17 @@
+1. My tab configuration is not working.
+2. Res = 2.9999999999999996
+3. They are val and cannot be changed
+4. Concatenates the string three times. In the API it can be found 
+under StringOps
+5. The maximum between two values. RichInt has the max method defined.
+6. Done, huge number I won´t copy.
+7. Things, I don´t know.
+8. Pendiente
+9. Head and Last
+10. 
+	take --> returns the first n characters
+	drop --> returns the string without the first n characters
+	takeRight --> returns the last n characters
+	dropRight --> returns the string without the last n characters
+	The substring functions let you select values in the middle of 
+the string, but they are slower as they need to parse the string.
