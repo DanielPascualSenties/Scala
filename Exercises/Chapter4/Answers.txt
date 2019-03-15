@@ -1,0 +1,4 @@
+4.10:
+When zipping two strings, you obtain a vector of the length of the 
+shortest word containing pairs of letters, each from one word. One use 
+could be to count matching letters of two words. 
