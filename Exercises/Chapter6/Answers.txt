@@ -1,0 +1,3 @@
+6.3: If you want a point to be the Origin, you want it to remain (0,0), 
+however the java.awt.Point lets you change the values through methods 
+like setLocation.
